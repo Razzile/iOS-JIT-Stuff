@@ -1,0 +1,10 @@
+Package: org.satorify.jitstuff
+Name: jitstuff
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: satori
+Author: satori
+Section: System
+Tag: role::hacker
